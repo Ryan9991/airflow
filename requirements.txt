@@ -1,0 +1,7 @@
+pymongo
+gcsfs
+oauth2client
+openpyxl
+xlsxwriter
+gspread
+psycopg2
